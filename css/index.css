@@ -12,6 +12,17 @@
   clear: both;
 }
 
+#google_translate_element {
+  margin-top: 40px;
+  color: transparent !important;
+}
+.skiptranslate span {
+  display: none !important;
+}
+.skiptranslate {
+  margin-top: -40px !important;
+}
+
 /* nav */
 
 .navbar {
